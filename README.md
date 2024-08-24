@@ -11,11 +11,11 @@ It's a fully functional and secure cross platform chat application built using f
 - instant messages
 
 ## Tools used
-"*"Flutter & Dart
-"*"Firebase Messaging Flutter
-"*"Provider State Management
-"*"Graphql Flutter
-"*"Shared Preferences
+- Flutter & Dart
+- Firebase Messaging Flutter
+- Provider State Management
+- Graphql Flutter
+- Shared Preferences
 
 How to run
 First go and setup the server for the chat app
