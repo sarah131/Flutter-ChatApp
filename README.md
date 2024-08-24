@@ -1,4 +1,4 @@
-# Chap Client
+# ChatApp
 
 It's a fully functional and secure cross platform chat application built using flutter and uses a graphql server that acts as an interface between the Database and the client.
 
@@ -23,7 +23,7 @@ It's a fully functional and secure cross platform chat application built using f
 
 ## How to run
 
-First go and setup the [server](http://github.com/vineeshvk/chat-app-server) for the chat app
+First go and setup the server for the chat app
 ```
 flutter packages get
 ```
@@ -31,3 +31,5 @@ flutter packages get
 ```
 flutter run --release
 ```
+
+![Chat App](/ChatApp.png)
